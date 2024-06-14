@@ -33,6 +33,4 @@ I love Coding ,Cricket and Chess!!
 
 <a href="http://www.github.com/prakharsingh-08"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prakharsingh-08&stroke=14b8a6&background=27272a&ring=3382ed&fire=3382ed&currStreakNum=14b8a6&currStreakLabel=3382ed&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
-<a href="https://github.com/prakharsingh-08" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharsingh-08&langs_count=10&title_color=3382ed&text_color=14b8a6&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=prakharsingh-08)
