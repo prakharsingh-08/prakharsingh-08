@@ -36,3 +36,4 @@ I love Coding ,Cricket and Chess!!
 <a href="http://www.github.com/prakharsingh-08"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=prakharsingh-08&bg_color=27272a&color=14b8a6&line=ef4444&point=14b8a6&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/prakharsingh-08" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakharsingh-08&langs_count=10&title_color=3382ed&text_color=14b8a6&icon_color=ef4444&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PranjalAgni)
