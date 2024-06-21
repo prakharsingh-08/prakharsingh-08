@@ -8,9 +8,9 @@ Developer and Student
 
 I love Coding ,Cricket and Chess!!
 
-* 🌍  I'm based in Uttar Pradesh
+* 🌍  I'm based in Uttar Pradesh.
 * ✉️  You can contact me at [prakhar.singh.info@gmail.com](mailto:prakhar.singh.info@gmail.com)
-* 🧠  I'm learning Microsoft Excel, Javascript
+* 🧠  I'm learning Microsoft Excel, Javascript.
 * 🤝  I'm open to collaborating on on any projects related to C/C++, Web Development and ML.
 
 ### 💻 Skills:
